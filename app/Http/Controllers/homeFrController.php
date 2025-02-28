@@ -8,8 +8,8 @@ use App\Models\Abouts;
 use App\Models\Histories;
 use App\Models\Facts;
 use App\Models\Testimonials;
-use App\Models\setting;
-use App\Models\galleries;
+use App\Models\Setting;
+use App\Models\Galleries;
 
 class homeFrController extends Controller
 {
